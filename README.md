@@ -1,2 +1,1 @@
-# blockquote
-Blockquote for editorjs
+# Quote Tool
