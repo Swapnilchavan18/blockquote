@@ -1,5 +1,5 @@
 {
-  "name": "@editorjs/blockquote",
+  "name": "@Swapnilchavan18/blockquote",
   "version": "1.0.1",
   "keywords": [
     "codex editor",
@@ -10,7 +10,7 @@
   ],
   "description": "Quote for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/Swapnilchavan18/blockquote",
+  "repository": "https://github.com/Swapnilchavan18/blockquote.git",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",
